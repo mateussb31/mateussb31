@@ -3,8 +3,8 @@
 
 <br>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateussb31&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussb31&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateussb31&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateussb31&theme=gruvbox"/>
 </div>
 
 
